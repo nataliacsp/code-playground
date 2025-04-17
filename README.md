@@ -63,14 +63,4 @@ code-playground/
 Built by [Natalia Solorzano](https://github.com/nataliacsp) 💡  
 Follow for more Mac-friendly coding tutorials and AI projects!
 
----
 
-## 📸 (Optional) Screenshot or GIF Preview
-
-_Add a terminal screenshot or quick GIF of Jupyter launching here._
-
----
-
-## 🪪 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
