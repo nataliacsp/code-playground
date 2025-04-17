@@ -1,31 +1,76 @@
-# Python Project Setup on macOS
+# 🐍 Code Playground: Python Starter Project (macOS)
 
-This project uses a virtual environment and includes common data science packages.
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-ready-orange)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📦 Setup
+Welcome to **Code Playground**, a clean starter template for Python development on macOS. Ideal for data science, Jupyter notebooks, and experimenting with virtual environments.
+
+---
+
+## 🚀 What's Inside
+
+- ✅ `venv`-ready setup (for Python 3.13+)
+- ✅ `requirements.txt` with common data science packages
+- ✅ `.gitignore` for clean GitHub commits
+- ✅ Jupyter Notebook support
+- ✅ Mac-friendly and beginner-safe
+
+---
+
+## 📦 Installation Guide
+
+Clone the repo and set up your Python environment:
 
 ```bash
-# 1. Clone this repo or navigate into your project folder
+git clone https://github.com/nataliacsp/code-playground.git
 cd code-playground
 
-# 2. Create and activate virtual environment
+# Create and activate virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
-# 3. Install dependencies
+# Install all required packages
 pip install -r requirements.txt
+```
 
-# 4. Start Jupyter Notebook
+---
+
+## 🧠 Start Coding
+
+Launch Jupyter Notebooks in your browser:
+
+```bash
 jupyter notebook
 ```
 
-## 🔚 Deactivate Environment
+---
+
+## 📂 File Structure
 
 ```bash
-deactivate
+code-playground/
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── venv/ (your virtual environment)
 ```
 
-## 📁 Files
+---
 
-- `requirements.txt`: Common Python packages for data science
-- `.gitignore`: Clean Git repo setup for Python + macOS + VS Code
+## 👩‍💻 About the Author
+
+Built by [Natalia Solorzano](https://github.com/nataliacsp) 💡  
+Follow for more Mac-friendly coding tutorials and AI projects!
+
+---
+
+## 📸 (Optional) Screenshot or GIF Preview
+
+_Add a terminal screenshot or quick GIF of Jupyter launching here._
+
+---
+
+## 🪪 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
